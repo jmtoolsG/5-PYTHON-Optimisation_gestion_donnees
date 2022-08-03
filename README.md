@@ -1,4 +1,4 @@
-# Python-Optimisation_de_la_gestion_des_donnees_d_une_boutique
+# Optimisation de la gestion des données d'une boutique en ligne
 
 En tant que Data-Analyst pour un marchand de produit en ligne, la direction souhaite rapprocher ses ressources, ses clients ect., actuellement gérées par un ERP  non reliés à son site de vente en ligne.
 
