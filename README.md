@@ -11,11 +11,13 @@ Enfin, des analyses statistiques seront réalisées sur les bases de données af
   - Encodage
   - Nommage des colonnes
   - Ajout de colonnes calculées
+  
 - Gérer les erreurs et les incohérences présentes sur des données stockées
    - Choix des clés primaires et test de leur unicité
    - Evaluation de la conformité des dimensions du Dataframe
    - Choix du type de jointures (left, right ou outer) à appliquer
    - Vérification des jointures et observation du nombre de clés jointé ou non dans les différentes tables
+   
 - Réaliser une analyse univariée pour interpréter des données
   - Détection des outliers
   - Explication du choix de la méthode de détection des outliers
