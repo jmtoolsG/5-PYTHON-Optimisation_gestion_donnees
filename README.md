@@ -22,3 +22,8 @@ Enfin, des analyses statistiques seront réalisées sur les bases de données af
   - Détection des outliers
   - Explication du choix de la méthode de détection des outliers
   - Présentation graphique des données avec visualisation des outliers
+
+#### Outils utilisés :
+- Python
+- Jupyter Notebook
+- Power Point
